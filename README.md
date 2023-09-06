@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tatiana 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ...
+
+- 🌱 I’m a junior data analyst
+
 - 📫 How to reach me ...
 
 <!---
