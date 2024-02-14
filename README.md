@@ -2,7 +2,7 @@
 
 - 🌱 I’m a junior data analyst
 
-- 📫 How to reach me - [Telegram](https://t.me/Tathata17)
+- 📫 How to reach me - [Telegram](https://t.me/T_Lisitskaia)
 
 <!---
 LisTatiana/LisTatiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
